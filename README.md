@@ -1,3 +1,11 @@
+Angular API Project
+Task: work	with	a	group	to	build	a	small	Angular	app	that	uses	an	API.	There  are	three	APIs	to	choose	from: 
+
+1.Display	results	from	the	API	based	on	user-selected	search	criteria.   
+2.Allow	users	to	mark	“favorite”	results.  
+3.Display	a	list	of	favorites,	and	allow	the	user	to	remove	items	from	this	list.  
+4.No design specifications
+
 # MovieApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
