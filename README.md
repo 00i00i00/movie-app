@@ -1,7 +1,7 @@
 Angular API Project
 
 
-Task: work	with	a	group	to	build	a	small	Angular	app	that	uses	an	API.	There  are	three	APIs	to	choose	from: 
+Task: work	with	a	group	to	build	a	small	Angular	app	that	uses	an	API.
 
 1.Display	results	from	the	API	based	on	user-selected	search	criteria.   
 
